@@ -6,9 +6,9 @@
 <h2>Features</h2>
 <p>Users are authenticated by utilizing the Django Admin Token Authentication.</p>
 <img src="client/public/images/UserTokenAuthentication.png" alt="Screenshot of user authentiation">
-<p>Once logged in, users can click their profile in the right part of the navbar at the top to see possible actions. The dashboard will display the user's recipes, which they can view to see in more detail.</p>
-<img src="" alt="Screenshot of recipe endpoint">
-<p>The first step is t</p>
+<p>Each recipe can be defined by a tag to catagorize recipe's by cusine, or dietary restrictions </p>
+<img src="client/public/images/TagsEndpoint.png" alt="Screenshot of recipe endpoint">
+<p>The first step for creating a recipe is to define the ingredients </p>
 <img src="" alt="Screenshot of ingredient endpoint" width="35%" height="auto">
 <p>Once the recipe's necessary ingredients are </p>
 <img src="" alt="Screenshot of user endpoint">
