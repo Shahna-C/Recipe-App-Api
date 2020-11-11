@@ -1,11 +1,11 @@
 # recipe-app-api
 
 <h2>HomeBaked</h2>
-<p>This REST API is meant to make cooking at home easier by allowing users to store recipes, and ingredients they have at home in a pantry, and generate ingredients required to cook recipes. The app will subtract ingredients in the user's pantry from the grocery list, to allow the user to only obtain the ingredients needed for the desired recipes, and the grocery list is then provided to the user. Additional features will be added later as shown below.</p>
+<p>This REST API is the framework for a digital recipe box. It allows the users to create multiple recipies with </p>
 
 <h2>Features</h2>
-<p>Users can create accounts to store their profile information, ingredients, recipes, etc.</p>
-<img src="" alt="Screenshot of user authentiation">
+<p>Users are authenticated by utilizing the Django Admin Token Authentication.</p>
+<img src="client/public/images/UserTokenAuthentication.png" alt="Screenshot of user authentiation">
 <p>Once logged in, users can click their profile in the right part of the navbar at the top to see possible actions. The dashboard will display the user's recipes, which they can view to see in more detail.</p>
 <img src="" alt="Screenshot of recipe endpoint">
 <p>The first step is to add ingredients that the user wishes to track in recipes. Users have access to common ingredients added by default but they will not be able to edit or delete those ingredients.</p>
