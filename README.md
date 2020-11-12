@@ -15,16 +15,16 @@
 <p>Once the recipe is created, users can upload images to the recipe.The upload form provides a link for the uploaded image.</p>
 <img src="client/public/images/ImageUploadEndpoint.png" alt="Screenshot of image upload">
 <p>Filtering was added to give users the ability to conveniently search recipes by ingredients or tags.</p>
-<h4>Find recipe by tag.</h4>
+<h4>Find recipe by tag</h4>
 <img src="client/public/images/TagFiltering.png" alt="Screenshot of tag filtering">
-<p>Find recipe by ingredient.</p>
+<h4>Find recipe by ingredient</h4>
 <img src="client/public/images/IngredientFiltering.png" alt="Screenshot of ingredient filtering">
-<p>Find recipe by tag and ingredient.</p>
+<h4>Find recipe by tag and ingredient</h4>
 <img src="client/public/images/IngredientTagFiltering.png" alt="Screenshot of tag filtering">
 <h2>Built With</h2>
   <ul>
     <li>PostgreSQL
-    <li>Python
+    <li>Pythongi
     <li>Django
     <li>Docker
     <li>Travis CI
