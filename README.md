@@ -14,8 +14,8 @@
 <img src="client/public/images/RecipeEndpoint.png" alt="Screenshot of Recipe endopoint">
 <p>Once the recipe is created, users can upload images to the recipe.The upload form provides a link for the uploaded image.</p>
 <img src="client/public/images/ImageUploadEndpoint.png" alt="Screenshot of image upload">
-<p>Filtering was added to allow uses the ability to conveniently search recipes by ingredients or tags.</p>
-<p>Find recipe by tag.</p>
+<p>Filtering was added to give users the ability to conveniently search recipes by ingredients or tags.</p>
+<h4>Find recipe by tag.</h4>
 <img src="client/public/images/TagFiltering.png" alt="Screenshot of tag filtering">
 <p>Find recipe by ingredient.</p>
 <img src="client/public/images/IngredientFiltering.png" alt="Screenshot of ingredient filtering">
