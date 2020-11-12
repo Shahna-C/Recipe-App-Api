@@ -11,11 +11,16 @@
 <p>The first step for creating a recipe is to define the ingredients. The enpoint allows user to create a bank of ingredients to pull from when creating recipes </p>
 <img src="client/public/images/IngredientList.png" alt="Screenshot of ingredient endpoint">
 <p>Once the recipe's necessary ingredients are added then the user can compile the recipe and attach a link to the original recipe.</p>
-<img src="client/public/images/RecipeEndpoint.png" alt="Screenshot of user endpoint">
-<p>Once the recipe is created, users can upload images to the recipe.The upload form provides a link to access photos.</p>
-<img src="client/public/images/ImageUploadEndpoint.png" alt="Screenshot of user interface">
-<p>Filtering was added to allow uses the ability to easily locate search recipes by ingredients or tags.</p>
-<img src="client/public/images/ImageUploadEndpoint.png" alt="Screenshot of user interface">
+<img src="client/public/images/RecipeEndpoint.png" alt="Screenshot of Recipe endopoint">
+<p>Once the recipe is created, users can upload images to the recipe.The upload form provides a link for the uploaded image.</p>
+<img src="client/public/images/ImageUploadEndpoint.png" alt="Screenshot of image upload">
+<p>Filtering was added to allow uses the ability to conveniently search recipes by ingredients or tags.</p>
+<p>Find recipe by tag.</p>
+<img src="client/public/images/TagFiltering.png" alt="Screenshot of tag filtering">
+<p>Find recipe by ingredient.</p>
+<img src="client/public/images/IngredientFiltering.png" alt="Screenshot of ingredient filtering">
+<p>Find recipe by tag and ingredient.</p>
+<img src="client/public/images/IngredientTagFiltering.png" alt="Screenshot of tag filtering">
 <h2>Built With</h2>
   <ul>
     <li>PostgreSQL
